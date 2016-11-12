@@ -6,7 +6,7 @@ description: GAEの勉強・まずはHello World!
 1.プロジェクトの作成
 メニューのファイル→新規→Webアプリケーション・プロジェクトを選択します。
 
-![image](/assets/images/2009_10_3/5.jpg)
+![image]({{site.baseurl}}/assets/images/2009_10_3/5.jpg)
 
 下記の状態にして完了を押します。
 プロジェクト名：HelloWorld
