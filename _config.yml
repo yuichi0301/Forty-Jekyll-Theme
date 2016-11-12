@@ -14,8 +14,8 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://yuichi0301.github.io" # the base hostname & protocol for your site
 author:
 street_address:
-city:
-state:
+city: Fukuoka
+state: Fukuoka
 zip_code:
 country:
 phone:
