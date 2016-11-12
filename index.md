@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, my name is Forty
-description: 
-image: 
-author: 
-nav-menu: 
+landing-title: yuichi0301 blog
+description:
+image:
+author:
+nav-menu:
 ---
 
 <!-- Banner -->
@@ -33,14 +33,13 @@ nav-menu:
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Diet Viewer</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>"Diet Viewer"というAndroid用のダイエットアプリを作っています。様々なグラフを表示できて、体重の他にカロリーや運動などを登録できます。</p>
 		<ul class="actions">
-			<li><a href="landing.html" class="button next">Get Started</a></li>
+			<li><a href="https://play.google.com/store/apps/details?id=com.appspot.nagasaki.yuichi.dietviewer&hl=ja" class="button next">Show Google Play</a></li>
 		</ul>
 	</div>
 </section>
 
 </div>
-
