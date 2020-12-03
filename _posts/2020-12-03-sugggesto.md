@@ -34,8 +34,12 @@ description: sugggesto
 
 二つ目は、コラボレーション自体に価値があるサービスをなめていました。これまでコラボレーションしなくてもそれ自体に価値があるアプリしか作ってこなかったので、コラボレーションして初めて価値が生まれるアプリを作るのは初めてだったので厳しかったです。
 
-(ちなみに、これまで作ったアプリはダイエットアプリ[DietViewer](https://dietviewer.com/ja/)、オセロ研究アプリ[ReversiLab](https://reversilab.com/ja/)、Gitを使ったノートアプリ[GitNotebook](https://gitnotebook.com/ja/)などがあります。)
-
 ## 終わりに
 
 sugggestoの今後についてですがバックエンドをFirebaseで作っていたこともあり、現在無料で運用できていますのでしばらくは運用していこうと思っています。こんな大失敗アプリ[sugggesto](https://www.sugggesto.com/ja/)を使ってみたい人がいたら是非[こちら](https://www.sugggesto.com/ja/)から試してみてください。
+
+
+私がこれまでに作ったアプリ一覧はこちらになります。
+- ダイエットアプリ[DietViewer](https://dietviewer.com/ja/)
+- オセロ研究アプリ[ReversiLab](https://reversilab.com/ja/)
+- Gitを使ったノートアプリ[GitNotebook](https://gitnotebook.com/ja/)
